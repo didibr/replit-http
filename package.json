@@ -1,6 +1,6 @@
 {
   "name": "@didibr/replit-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "readme test",
   "main": "replit-http.js",
   "scripts": {
@@ -12,5 +12,7 @@
   },
   "author": "iandidi123@gmail.com",
   "license": "ISC",
-  "publishConfig":{ "@didibr:registry":"https://npm.pkg.github.com"}
+  "publishConfig": {
+    "@didibr:registry": "https://npm.pkg.github.com"
+  }
 }
