@@ -14,5 +14,12 @@
   "license": "ISC",
   "publishConfig": {
     "@didibr:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "formidable": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }
