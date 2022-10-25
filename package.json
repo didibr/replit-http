@@ -1,0 +1,15 @@
+{
+  "name": "@didibr/replit-http",
+  "version": "1.0.0",
+  "description": "readme test",
+  "main": "replit-http.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/didibr/replit-http.git"
+  },
+  "author": "iandidi123@gmail.com",
+  "license": "ISC"
+}
